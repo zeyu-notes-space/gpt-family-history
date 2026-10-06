@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-07",
+  "scope": "Git-tracked publishable files excluding dependency/cache/private validation directories",
+  "scanned_file_count": 32,
+  "pattern_categories": [
+    "github_token",
+    "api_key",
+    "aws_access_key",
+    "private_key",
+    "credential_assignment",
+    "personal_absolute_path",
+    "email",
+    "china_mobile"
+  ],
+  "matches": [],
+  "png_metadata": [
+    {
+      "file": "assets/01_origin.png",
+      "text_metadata_chunks": 0
+    },
+    {
+      "file": "assets/02_turing.png",
+      "text_metadata_chunks": 0
+    },
+    {
+      "file": "assets/06_multimodal.png",
+      "text_metadata_chunks": 0
+    },
+    {
+      "file": "assets/07_horizon.png",
+      "text_metadata_chunks": 0
+    }
+  ],
+  "result": "no matching credentials, personal paths, phone numbers or email addresses found",
+  "limitations": "Pattern-based scan and manual source inspection cannot prove absence of every possible secret or third-party right."
+}
