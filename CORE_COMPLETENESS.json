@@ -1,0 +1,230 @@
+{
+  "scenes": [
+    {
+      "scene": "opening",
+      "switch_present": true,
+      "calls": [
+        {
+          "file": "film_motifs.cjs",
+          "function": "opening",
+          "defined": true,
+          "exported": true
+        }
+      ]
+    },
+    {
+      "scene": "title",
+      "switch_present": true,
+      "calls": []
+    },
+    {
+      "scene": "origin",
+      "switch_present": true,
+      "calls": [
+        {
+          "file": "film_motifs.cjs",
+          "function": "ancestry",
+          "defined": true,
+          "exported": true
+        }
+      ]
+    },
+    {
+      "scene": "turing",
+      "switch_present": true,
+      "calls": []
+    },
+    {
+      "scene": "attention",
+      "switch_present": true,
+      "calls": [
+        {
+          "file": "ink_motifs.cjs",
+          "function": "drawAttention",
+          "defined": true,
+          "exported": true
+        }
+      ]
+    },
+    {
+      "scene": "tokens",
+      "switch_present": true,
+      "calls": [
+        {
+          "file": "ink_motifs.cjs",
+          "function": "drawTokens",
+          "defined": true,
+          "exported": true
+        }
+      ]
+    },
+    {
+      "scene": "continuation",
+      "switch_present": true,
+      "calls": [
+        {
+          "file": "film_motifs.cjs",
+          "function": "continuation",
+          "defined": true,
+          "exported": true
+        }
+      ]
+    },
+    {
+      "scene": "scale",
+      "switch_present": true,
+      "calls": [
+        {
+          "file": "film_motifs.cjs",
+          "function": "scale",
+          "defined": true,
+          "exported": true
+        }
+      ]
+    },
+    {
+      "scene": "feedback",
+      "switch_present": true,
+      "calls": [
+        {
+          "file": "film_motifs.cjs",
+          "function": "feedback",
+          "defined": true,
+          "exported": true
+        }
+      ]
+    },
+    {
+      "scene": "chat",
+      "switch_present": true,
+      "calls": [
+        {
+          "file": "film_motifs.cjs",
+          "function": "chat",
+          "defined": true,
+          "exported": true
+        }
+      ]
+    },
+    {
+      "scene": "omni",
+      "switch_present": true,
+      "calls": [
+        {
+          "file": "film_motifs.cjs",
+          "function": "wave",
+          "defined": true,
+          "exported": true
+        }
+      ]
+    },
+    {
+      "scene": "reasoning",
+      "switch_present": true,
+      "calls": [
+        {
+          "file": "ink_motifs.cjs",
+          "function": "drawReasoning",
+          "defined": true,
+          "exported": true
+        }
+      ]
+    },
+    {
+      "scene": "tools",
+      "switch_present": true,
+      "calls": [
+        {
+          "file": "language_motifs.cjs",
+          "function": "drawTools",
+          "defined": true,
+          "exported": true
+        }
+      ]
+    },
+    {
+      "scene": "action",
+      "switch_present": true,
+      "calls": [
+        {
+          "file": "film_motifs.cjs",
+          "function": "action",
+          "defined": true,
+          "exported": true
+        }
+      ]
+    },
+    {
+      "scene": "family",
+      "switch_present": true,
+      "calls": [
+        {
+          "file": "film_motifs.cjs",
+          "function": "family",
+          "defined": true,
+          "exported": true
+        }
+      ]
+    },
+    {
+      "scene": "mirror",
+      "switch_present": true,
+      "calls": [
+        {
+          "file": "film_motifs.cjs",
+          "function": "mirror",
+          "defined": true,
+          "exported": true
+        }
+      ]
+    },
+    {
+      "scene": "epilogue",
+      "switch_present": true,
+      "calls": [
+        {
+          "file": "film_motifs.cjs",
+          "function": "epilogue",
+          "defined": true,
+          "exported": true
+        }
+      ]
+    },
+    {
+      "scene": "final",
+      "switch_present": true,
+      "calls": [
+        {
+          "file": "film_motifs.cjs",
+          "function": "final",
+          "defined": true,
+          "exported": true
+        }
+      ]
+    }
+  ],
+  "local_imports": [
+    {
+      "file": "v3/render.cjs",
+      "import": "./language_motifs.cjs",
+      "exists": true
+    },
+    {
+      "file": "v3/render.cjs",
+      "import": "./ink_motifs.cjs",
+      "exists": true
+    },
+    {
+      "file": "v3/render.cjs",
+      "import": "./film_motifs.cjs",
+      "exists": true
+    },
+    {
+      "file": "v3/render.cjs",
+      "import": "./story.json",
+      "exists": true
+    }
+  ],
+  "scene_count": 18,
+  "status": "all 18 scene implementations and local dependencies present; 18 representative stills rendered; key video encoding and Python segment invocation verified"
+}

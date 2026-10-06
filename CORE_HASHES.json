@@ -1,0 +1,47 @@
+[
+  {
+    "file": "v3/render.cjs",
+    "sha256": "b9e6ea08b21deba074a572efd8c23627e154b2c4747b6fd05880432c7179f76e",
+    "unchanged_from_recovered_zip": true
+  },
+  {
+    "file": "v3/film_motifs.cjs",
+    "sha256": "9540387abce4465c95982bd79fe0e71f47cc75a5d6e93a7f3f85935f7aa7ae18",
+    "unchanged_from_recovered_zip": true
+  },
+  {
+    "file": "v3/ink_motifs.cjs",
+    "sha256": "c9d71613f65a0985fa7bfc84b6096a4bebe7fcf777bbf1248258bfce0098431e",
+    "unchanged_from_recovered_zip": true
+  },
+  {
+    "file": "v3/language_motifs.cjs",
+    "sha256": "75455111459a4fc728aa90a44579505f198ac4462d7e12d06cb0dd57e34354a6",
+    "unchanged_from_recovered_zip": true
+  },
+  {
+    "file": "v3/render_all.py",
+    "sha256": "59b790b96ba46a6837cec2ec9a94b27be2b292591b85fdb95d787294a91af699",
+    "unchanged_from_recovered_zip": true
+  },
+  {
+    "file": "v3/finish.py",
+    "sha256": "826d470b09719779491213c9e7d7a44e9a3ced0ad31d0393de177dfae6963c18",
+    "unchanged_from_recovered_zip": true
+  },
+  {
+    "file": "v3/story.json",
+    "sha256": "924b1f73c78ec5d094ffbdc7d96e2cc84ecb564817df2c7ef7b68ded816c9df3",
+    "unchanged_from_recovered_zip": true
+  },
+  {
+    "file": "v3/audio/compose_score.py",
+    "sha256": "5eddcf4f5cda0c5216155a7500b82db22f7813b7af20e9e6663911be91cbe8ca",
+    "unchanged_from_recovered_zip": true
+  },
+  {
+    "file": "v3/audio/render_audio.py",
+    "sha256": "1b22f95dda62d9d66e138891e794c18d6270674c281340ff8468dd0d9e035262",
+    "unchanged_from_recovered_zip": true
+  }
+]

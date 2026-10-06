@@ -1,0 +1,309 @@
+{
+  "title": "The Next Question",
+  "duration_seconds": 150,
+  "seed": 120518,
+  "native_sample_rate": 32000,
+  "composition": "Original deterministic procedural composition and synthesis, adapted from the original commissioned score. No third-party recording, sample or reference-film audio.",
+  "speech": false,
+  "instrumentation": [
+    "warm felt piano",
+    "rounded silk-string plucks",
+    "soft bowed-string ensemble",
+    "synthesised room air"
+  ],
+  "delivery": {
+    "filename": "soundtrack_150s.wav",
+    "sample_rate": 48000,
+    "channels": 2,
+    "pcm_bits": 24,
+    "target_lufs": -16,
+    "maximum_true_peak_dbtp": -3
+  },
+  "arc": [
+    {
+      "from": 0,
+      "to": 24,
+      "feel": "an intimate question and historical prelude"
+    },
+    {
+      "from": 24,
+      "to": 62,
+      "feel": "attention, prediction and the growth of GPT; first arrival at 56"
+    },
+    {
+      "from": 62,
+      "to": 80,
+      "feel": "human feedback and a quiet conversation; pause at 68–73.5"
+    },
+    {
+      "from": 80,
+      "to": 119,
+      "feel": "perception, reasoning and tools; warm arrival at 116.1"
+    },
+    {
+      "from": 119,
+      "to": 150,
+      "feel": "the family tree, a human question, and an ink landscape"
+    }
+  ],
+  "events": [
+    {
+      "kind": "harmony",
+      "time": 0.0,
+      "chord": "Dm9",
+      "phrase_start": 0
+    },
+    {
+      "kind": "harmony",
+      "time": 3.333,
+      "chord": "Csus",
+      "phrase_start": 0
+    },
+    {
+      "kind": "harmony",
+      "time": 6.667,
+      "chord": "Dm9",
+      "phrase_start": 0
+    },
+    {
+      "kind": "harmony",
+      "time": 10.0,
+      "chord": "Dm9",
+      "phrase_start": 10
+    },
+    {
+      "kind": "harmony",
+      "time": 13.5,
+      "chord": "BbM7",
+      "phrase_start": 10
+    },
+    {
+      "kind": "harmony",
+      "time": 17.0,
+      "chord": "Gm9",
+      "phrase_start": 10
+    },
+    {
+      "kind": "harmony",
+      "time": 20.5,
+      "chord": "Csus",
+      "phrase_start": 10
+    },
+    {
+      "kind": "harmony",
+      "time": 24.0,
+      "chord": "F9",
+      "phrase_start": 24
+    },
+    {
+      "kind": "harmony",
+      "time": 27.714,
+      "chord": "C9",
+      "phrase_start": 24
+    },
+    {
+      "kind": "harmony",
+      "time": 31.429,
+      "chord": "Dm9",
+      "phrase_start": 24
+    },
+    {
+      "kind": "harmony",
+      "time": 35.143,
+      "chord": "BbM7",
+      "phrase_start": 24
+    },
+    {
+      "kind": "harmony",
+      "time": 38.857,
+      "chord": "Gm9",
+      "phrase_start": 24
+    },
+    {
+      "kind": "harmony",
+      "time": 42.571,
+      "chord": "Csus",
+      "phrase_start": 24
+    },
+    {
+      "kind": "harmony",
+      "time": 46.286,
+      "chord": "F9",
+      "phrase_start": 24
+    },
+    {
+      "kind": "harmony",
+      "time": 50.0,
+      "chord": "F9",
+      "phrase_start": 50
+    },
+    {
+      "kind": "harmony",
+      "time": 53.0,
+      "chord": "BbM7",
+      "phrase_start": 50
+    },
+    {
+      "kind": "harmony",
+      "time": 56.0,
+      "chord": "Gm9",
+      "phrase_start": 50
+    },
+    {
+      "kind": "harmony",
+      "time": 59.0,
+      "chord": "Csus",
+      "phrase_start": 50
+    },
+    {
+      "kind": "harmony",
+      "time": 62.0,
+      "chord": "DmF",
+      "phrase_start": 62
+    },
+    {
+      "kind": "harmony",
+      "time": 65.0,
+      "chord": "BbM7",
+      "phrase_start": 62
+    },
+    {
+      "kind": "harmony",
+      "time": 73.5,
+      "chord": "F69",
+      "phrase_start": 73.5
+    },
+    {
+      "kind": "harmony",
+      "time": 76.75,
+      "chord": "C9",
+      "phrase_start": 73.5
+    },
+    {
+      "kind": "harmony",
+      "time": 80.0,
+      "chord": "Dm9",
+      "phrase_start": 80
+    },
+    {
+      "kind": "harmony",
+      "time": 83.167,
+      "chord": "BbM7",
+      "phrase_start": 80
+    },
+    {
+      "kind": "harmony",
+      "time": 86.333,
+      "chord": "F9",
+      "phrase_start": 80
+    },
+    {
+      "kind": "harmony",
+      "time": 89.5,
+      "chord": "C9",
+      "phrase_start": 80
+    },
+    {
+      "kind": "harmony",
+      "time": 92.667,
+      "chord": "Gm9",
+      "phrase_start": 80
+    },
+    {
+      "kind": "harmony",
+      "time": 95.833,
+      "chord": "Csus",
+      "phrase_start": 80
+    },
+    {
+      "kind": "harmony",
+      "time": 99.0,
+      "chord": "Dm9",
+      "phrase_start": 99
+    },
+    {
+      "kind": "harmony",
+      "time": 102.333,
+      "chord": "BbM7",
+      "phrase_start": 99
+    },
+    {
+      "kind": "harmony",
+      "time": 105.667,
+      "chord": "F9",
+      "phrase_start": 99
+    },
+    {
+      "kind": "harmony",
+      "time": 109.0,
+      "chord": "Gm9",
+      "phrase_start": 99
+    },
+    {
+      "kind": "harmony",
+      "time": 112.333,
+      "chord": "BbM7",
+      "phrase_start": 99
+    },
+    {
+      "kind": "harmony",
+      "time": 115.667,
+      "chord": "Csus",
+      "phrase_start": 99
+    },
+    {
+      "kind": "harmony",
+      "time": 119.0,
+      "chord": "F69",
+      "phrase_start": 119
+    },
+    {
+      "kind": "harmony",
+      "time": 122.667,
+      "chord": "BbM7",
+      "phrase_start": 119
+    },
+    {
+      "kind": "harmony",
+      "time": 126.333,
+      "chord": "Gm9",
+      "phrase_start": 119
+    },
+    {
+      "kind": "harmony",
+      "time": 130.0,
+      "chord": "DmF",
+      "phrase_start": 130
+    },
+    {
+      "kind": "harmony",
+      "time": 133.833,
+      "chord": "BbM7",
+      "phrase_start": 130
+    },
+    {
+      "kind": "harmony",
+      "time": 137.667,
+      "chord": "F69",
+      "phrase_start": 130
+    },
+    {
+      "kind": "question_pause",
+      "time": 68.0,
+      "end": 73.5
+    },
+    {
+      "kind": "crescendo_arrival",
+      "time": 56.0
+    },
+    {
+      "kind": "crescendo_arrival",
+      "time": 116.1
+    },
+    {
+      "kind": "final_cadence",
+      "time": 141.5,
+      "chord": "F6/9"
+    }
+  ]
+}

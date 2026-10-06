@@ -1,0 +1,162 @@
+{
+  "sha256": "3233f17df9391c15378842e81420ce3e9c3bc8fe67a01a0a524c8203b6a23778",
+  "archive_bytes": 67785982,
+  "entries": [
+    {
+      "name": "v3/render.cjs",
+      "compressed_size": 6313,
+      "expected_size": 16765,
+      "status": "size and CRC verified"
+    },
+    {
+      "name": "v3/film_motifs.cjs",
+      "compressed_size": 5489,
+      "expected_size": 12859,
+      "status": "size and CRC verified"
+    },
+    {
+      "name": "v3/ink_motifs.cjs",
+      "compressed_size": 6702,
+      "expected_size": 16906,
+      "status": "size and CRC verified"
+    },
+    {
+      "name": "v3/language_motifs.cjs",
+      "compressed_size": 6740,
+      "expected_size": 17467,
+      "status": "size and CRC verified"
+    },
+    {
+      "name": "v3/render_all.py",
+      "compressed_size": 1040,
+      "expected_size": 1963,
+      "status": "size and CRC verified"
+    },
+    {
+      "name": "v3/finish.py",
+      "compressed_size": 1933,
+      "expected_size": 4203,
+      "status": "size and CRC verified"
+    },
+    {
+      "name": "v3/story.json",
+      "compressed_size": 2512,
+      "expected_size": 7607,
+      "status": "size and CRC verified"
+    },
+    {
+      "name": "v3/SCRIPT.md",
+      "compressed_size": 2052,
+      "expected_size": 3562,
+      "status": "size and CRC verified"
+    },
+    {
+      "name": "v3/SOURCES.md",
+      "compressed_size": 1298,
+      "expected_size": 2042,
+      "status": "size and CRC verified"
+    },
+    {
+      "name": "v3/DESIGN.md",
+      "compressed_size": 708,
+      "expected_size": 988,
+      "status": "size and CRC verified"
+    },
+    {
+      "name": "v3/FINAL_QA.json",
+      "compressed_size": 632,
+      "expected_size": 1096,
+      "status": "size and CRC verified"
+    },
+    {
+      "name": "README.md",
+      "compressed_size": 1336,
+      "expected_size": 2065,
+      "status": "size and CRC verified"
+    },
+    {
+      "name": "package.json",
+      "compressed_size": 161,
+      "expected_size": 248,
+      "status": "size and CRC verified"
+    },
+    {
+      "name": "v3/output/GPT家族史_双语字幕.srt",
+      "compressed_size": 1804,
+      "expected_size": 3214,
+      "status": "size and CRC verified"
+    },
+    {
+      "name": "v3/audio/compose_score.py",
+      "compressed_size": 4779,
+      "expected_size": 11429,
+      "status": "size and CRC verified"
+    },
+    {
+      "name": "v3/audio/render_audio.py",
+      "compressed_size": 2069,
+      "expected_size": 4517,
+      "status": "size and CRC verified"
+    },
+    {
+      "name": "v3/audio/requirements.txt",
+      "compressed_size": 12,
+      "expected_size": 12,
+      "status": "size and CRC verified"
+    },
+    {
+      "name": "v3/audio/README.md",
+      "compressed_size": 274,
+      "expected_size": 278,
+      "status": "size and CRC verified"
+    },
+    {
+      "name": "v3/audio/audio_manifest.json",
+      "compressed_size": 1196,
+      "expected_size": 6171,
+      "status": "size and CRC verified"
+    },
+    {
+      "name": "v3/audio/audio_QA.json",
+      "compressed_size": 989,
+      "expected_size": 3357,
+      "status": "size and CRC verified"
+    },
+    {
+      "name": "v3/audio/soundtrack_150s.wav",
+      "compressed_size": 41127336,
+      "expected_size": 43200102,
+      "status": "size and CRC verified"
+    },
+    {
+      "name": "assets/01_origin.png",
+      "compressed_size": 2323443,
+      "expected_size": 2335438,
+      "status": "size and CRC verified"
+    },
+    {
+      "name": "assets/02_turing.png",
+      "compressed_size": 2314309,
+      "expected_size": 2326569,
+      "status": "size and CRC verified"
+    },
+    {
+      "name": "assets/06_multimodal.png",
+      "compressed_size": 2529570,
+      "expected_size": 2542531,
+      "status": "size and CRC verified"
+    },
+    {
+      "name": "assets/07_horizon.png",
+      "compressed_size": 2248957,
+      "expected_size": 2261054,
+      "status": "size and CRC verified"
+    },
+    {
+      "name": "fonts/NotoSerifCJKsc-Regular.otf",
+      "compressed_size": 0,
+      "expected_size": 24543080,
+      "status": "incomplete header or truncated entry"
+    }
+  ]
+}

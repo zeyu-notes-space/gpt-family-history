@@ -1,0 +1,12 @@
+{
+  "name": "gpt-family-history",
+  "version": "3.0.0",
+  "dependencies": {
+    "@napi-rs/canvas": "0.1.100"
+  },
+  "scripts": {
+    "stills": "node --expose-gc v3/render.cjs stills",
+    "render": "python3 v3/render_all.py"
+  },
+  "license": "MIT"
+}
