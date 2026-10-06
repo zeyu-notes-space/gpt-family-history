@@ -25,8 +25,10 @@
 
 ## 发布端
 
-目标公开仓库： https://github.com/zeyu-notes-space/gpt-family-history 。2026-10-07 已通过 GitHub 连接器核验 visibility=public，账号仓库权限包括 push。
+公开仓库：https://github.com/zeyu-notes-space/gpt-family-history
 
-实际上传尝试在创建 README 时返回 403 Resource not accessible by integration。因此账号仓库权限不等于集成具有文件写入权限；没有文件上传成功。浏览器控制读取页面超时。本地 GitHub CLI 原凭据失效，尝试官方网页登录刷新时，设备授权请求发生网络连接超时，未取得新的认证。
+2026-10-07 重新核验 GitHub 连接及本地认证后，确认账号为 zeyu-notes-space、仓库 visibility=public。本地 GitHub CLI 登录有效，实际将整理好的 33 个文件推送到 main 分支，Git 返回 new branch main -> main，上传成功。
 
-当前状态：公开仓库已创建，完整本地发布包已保存；远端源码上传与上传后内容核验未完成。需要恢复该仓库的集成文件写入授权或可用的本地 GitHub 登录后继续。这里不把创建空仓库或提交上传请求当作源码发布成功。
+此前集成接口曾返回 403，命令行登录请求曾连接超时；这些是已记录的历史失败，不是当前上传状态。本次通过恢复后的 GitHub CLI 认证完成推送，没有重新整理源码、添加音乐或字体，也没有更改核心渲染脚本。
+
+发布验收核对远端文件清单、全部文件内容和核心源码哈希，并确认仓库仍为 Public。最终远端提交编号和逐文件核验结果记录于本地交付的 GITHUB_PUBLICATION_VERIFICATION.json，避免在提交内自引用提交编号。
